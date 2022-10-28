@@ -2,6 +2,7 @@
 Reference:
 	Gong, Yuan, Yu-An Chung, and James Glass.
 	"Ast: Audio spectrogram transformer." Interspeech. 2021.
+	https://github.com/YuanGongND/ast
 """
 
 Please download the AST weights to this folder.
