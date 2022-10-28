@@ -39,7 +39,7 @@ The training and evaluation (or validation also) data list is pre-built as a jso
 ```
 Go to the desired directory
 run the code below
-python3 main.py -name  -tags 
+python3 main.py -name [your exp name] -tags [your exp tags]
 ```
 
 
