@@ -3,10 +3,10 @@
 Pytorch code for following paper:
 
 * **Title** : INTEGRATED PARAMETER-EFFICIENT TUNING FOR GENERAL-PURPOSE AUDIO MODELS (Submit to ICASSP2023, now available [here](  )) 
-* **Autor** : Ju-ho Kim^*, Jungwoo Heo^*, Chan-yeong Lim, and Ha-Jin Yu
+* **Autor** : Ju-ho Kim<sup>\*</sup>, Jungwoo Heo<sup>\*</sup>, Chan-yeong Lim, and Ha-Jin Yu
 
 # Abstract
-<img align="middle" width="2000" src="https://github.com/wngh1187/RawNeXt/blob/main/overall.png">
+<img align="middle" width="2000" src="https://github.com/wngh1187/IPET/blob/main/overall.png">
 
 The advent of hyper-scale and general-purpose pre-trained models is shifting the paradigm of building task-specific models for target tasks. 
 In the field of audio research, task-agnostic pre-trained models with high transferability and adaptability have achieved state-of-the-art performances through fine-tuning for downstream tasks. 
