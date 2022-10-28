@@ -1,0 +1,1604 @@
+{
+ "data": [
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-100018-A-18.wav",
+   "labels": "/m/07rwj18"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-100024-A-27.wav",
+   "labels": "/m/07rwj27"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-100024-B-27.wav",
+   "labels": "/m/07rwj27"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-101381-A-33.wav",
+   "labels": "/m/07rwj33"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-101381-B-33.wav",
+   "labels": "/m/07rwj33"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-102583-A-49.wav",
+   "labels": "/m/07rwj49"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-102583-B-49.wav",
+   "labels": "/m/07rwj49"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-102583-C-49.wav",
+   "labels": "/m/07rwj49"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-102908-A-4.wav",
+   "labels": "/m/07rwj04"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-103050-A-19.wav",
+   "labels": "/m/07rwj19"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-103051-A-19.wav",
+   "labels": "/m/07rwj19"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-103051-B-19.wav",
+   "labels": "/m/07rwj19"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-103051-C-19.wav",
+   "labels": "/m/07rwj19"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-103401-A-33.wav",
+   "labels": "/m/07rwj33"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-103401-B-33.wav",
+   "labels": "/m/07rwj33"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-103401-C-33.wav",
+   "labels": "/m/07rwj33"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-103401-D-33.wav",
+   "labels": "/m/07rwj33"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-103597-A-25.wav",
+   "labels": "/m/07rwj25"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-103598-A-25.wav",
+   "labels": "/m/07rwj25"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-103599-A-25.wav",
+   "labels": "/m/07rwj25"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-103599-B-25.wav",
+   "labels": "/m/07rwj25"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-104632-A-12.wav",
+   "labels": "/m/07rwj12"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-104761-A-7.wav",
+   "labels": "/m/07rwj07"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-104761-B-7.wav",
+   "labels": "/m/07rwj07"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-104958-A-12.wav",
+   "labels": "/m/07rwj12"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-105235-A-7.wav",
+   "labels": "/m/07rwj07"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-105236-A-7.wav",
+   "labels": "/m/07rwj07"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-107123-A-26.wav",
+   "labels": "/m/07rwj26"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-107219-A-1.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-108160-A-23.wav",
+   "labels": "/m/07rwj23"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-108451-A-17.wav",
+   "labels": "/m/07rwj17"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-108451-B-17.wav",
+   "labels": "/m/07rwj17"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-108677-A-18.wav",
+   "labels": "/m/07rwj18"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-108791-A-18.wav",
+   "labels": "/m/07rwj18"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-110536-A-26.wav",
+   "labels": "/m/07rwj26"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-110913-A-7.wav",
+   "labels": "/m/07rwj07"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-110913-B-7.wav",
+   "labels": "/m/07rwj07"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-110913-C-7.wav",
+   "labels": "/m/07rwj07"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-110913-D-7.wav",
+   "labels": "/m/07rwj07"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-111102-A-46.wav",
+   "labels": "/m/07rwj46"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-111102-B-46.wav",
+   "labels": "/m/07rwj46"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-112356-A-18.wav",
+   "labels": "/m/07rwj18"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-112397-A-9.wav",
+   "labels": "/m/07rwj09"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-112522-A-27.wav",
+   "labels": "/m/07rwj27"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-112557-A-23.wav",
+   "labels": "/m/07rwj23"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-112557-B-23.wav",
+   "labels": "/m/07rwj23"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-115382-A-44.wav",
+   "labels": "/m/07rwj44"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-115387-A-47.wav",
+   "labels": "/m/07rwj47"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-115387-B-47.wav",
+   "labels": "/m/07rwj47"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-115387-C-47.wav",
+   "labels": "/m/07rwj47"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-116135-A-1.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-117293-A-9.wav",
+   "labels": "/m/07rwj09"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-117504-A-16.wav",
+   "labels": "/m/07rwj16"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-117504-B-16.wav",
+   "labels": "/m/07rwj16"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-117793-A-37.wav",
+   "labels": "/m/07rwj37"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-117883-A-37.wav",
+   "labels": "/m/07rwj37"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-118059-A-18.wav",
+   "labels": "/m/07rwj18"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-118069-A-27.wav",
+   "labels": "/m/07rwj27"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-118069-B-27.wav",
+   "labels": "/m/07rwj27"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-118194-A-33.wav",
+   "labels": "/m/07rwj33"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-118487-A-26.wav",
+   "labels": "/m/07rwj26"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-118656-A-41.wav",
+   "labels": "/m/07rwj41"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-118657-A-41.wav",
+   "labels": "/m/07rwj41"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-118657-B-41.wav",
+   "labels": "/m/07rwj41"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-118658-A-41.wav",
+   "labels": "/m/07rwj41"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-118658-B-41.wav",
+   "labels": "/m/07rwj41"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-118972-A-41.wav",
+   "labels": "/m/07rwj41"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-118972-B-41.wav",
+   "labels": "/m/07rwj41"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-119120-A-48.wav",
+   "labels": "/m/07rwj48"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-119120-B-48.wav",
+   "labels": "/m/07rwj48"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-119120-C-48.wav",
+   "labels": "/m/07rwj48"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-119120-D-48.wav",
+   "labels": "/m/07rwj48"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-119120-E-48.wav",
+   "labels": "/m/07rwj48"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-119455-A-44.wav",
+   "labels": "/m/07rwj44"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-119459-A-26.wav",
+   "labels": "/m/07rwj26"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-120526-A-37.wav",
+   "labels": "/m/07rwj37"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-120526-B-37.wav",
+   "labels": "/m/07rwj37"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-120644-A-12.wav",
+   "labels": "/m/07rwj12"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-121348-A-9.wav",
+   "labels": "/m/07rwj09"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-122110-A-46.wav",
+   "labels": "/m/07rwj46"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-123086-A-28.wav",
+   "labels": "/m/07rwj28"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-123224-A-19.wav",
+   "labels": "/m/07rwj19"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-124376-A-3.wav",
+   "labels": "/m/07rwj03"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-124376-B-3.wav",
+   "labels": "/m/07rwj03"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-124600-A-19.wav",
+   "labels": "/m/07rwj19"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-124795-A-28.wav",
+   "labels": "/m/07rwj28"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-124925-A-9.wav",
+   "labels": "/m/07rwj09"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-124958-A-28.wav",
+   "labels": "/m/07rwj28"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-125418-A-24.wav",
+   "labels": "/m/07rwj24"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-125548-A-32.wav",
+   "labels": "/m/07rwj32"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-126113-A-26.wav",
+   "labels": "/m/07rwj26"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-126358-A-3.wav",
+   "labels": "/m/07rwj03"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-126358-B-3.wav",
+   "labels": "/m/07rwj03"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-126391-A-27.wav",
+   "labels": "/m/07rwj27"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-126391-B-27.wav",
+   "labels": "/m/07rwj27"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-127874-A-17.wav",
+   "labels": "/m/07rwj17"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-127890-A-9.wav",
+   "labels": "/m/07rwj09"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-127890-B-9.wav",
+   "labels": "/m/07rwj09"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-127890-C-9.wav",
+   "labels": "/m/07rwj09"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-128160-A-44.wav",
+   "labels": "/m/07rwj44"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-128512-A-47.wav",
+   "labels": "/m/07rwj47"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-128512-B-47.wav",
+   "labels": "/m/07rwj47"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-129264-A-9.wav",
+   "labels": "/m/07rwj09"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-129338-A-13.wav",
+   "labels": "/m/07rwj13"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-129678-A-13.wav",
+   "labels": "/m/07rwj13"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-130330-A-22.wav",
+   "labels": "/m/07rwj22"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-130998-A-28.wav",
+   "labels": "/m/07rwj28"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-130998-B-28.wav",
+   "labels": "/m/07rwj28"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-131943-A-37.wav",
+   "labels": "/m/07rwj37"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-132340-A-37.wav",
+   "labels": "/m/07rwj37"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-132601-A-24.wav",
+   "labels": "/m/07rwj24"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-132747-A-26.wav",
+   "labels": "/m/07rwj26"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-132830-A-32.wav",
+   "labels": "/m/07rwj32"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-132852-A-10.wav",
+   "labels": "/m/07rwj10"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-133977-A-29.wav",
+   "labels": "/m/07rwj29"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-134049-A-1.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-134699-A-16.wav",
+   "labels": "/m/07rwj16"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-134699-B-16.wav",
+   "labels": "/m/07rwj16"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-134699-C-16.wav",
+   "labels": "/m/07rwj16"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-134802-A-13.wav",
+   "labels": "/m/07rwj13"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-135469-A-35.wav",
+   "labels": "/m/07rwj35"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-135650-A-45.wav",
+   "labels": "/m/07rwj45"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-135650-B-45.wav",
+   "labels": "/m/07rwj45"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-136288-A-0.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-136451-A-45.wav",
+   "labels": "/m/07rwj45"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-136608-A-16.wav",
+   "labels": "/m/07rwj16"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-137152-A-1.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-138114-A-22.wav",
+   "labels": "/m/07rwj22"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-138212-A-45.wav",
+   "labels": "/m/07rwj45"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-139109-A-46.wav",
+   "labels": "/m/07rwj46"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-139331-A-27.wav",
+   "labels": "/m/07rwj27"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-139958-A-37.wav",
+   "labels": "/m/07rwj37"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-140199-A-8.wav",
+   "labels": "/m/07rwj08"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-140199-B-8.wav",
+   "labels": "/m/07rwj08"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-140199-C-8.wav",
+   "labels": "/m/07rwj08"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-140199-D-8.wav",
+   "labels": "/m/07rwj08"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-140323-A-29.wav",
+   "labels": "/m/07rwj29"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-140774-A-10.wav",
+   "labels": "/m/07rwj10"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-141240-A-44.wav",
+   "labels": "/m/07rwj44"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-141240-B-44.wav",
+   "labels": "/m/07rwj44"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-141559-A-45.wav",
+   "labels": "/m/07rwj45"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-141684-A-21.wav",
+   "labels": "/m/07rwj21"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-142005-A-10.wav",
+   "labels": "/m/07rwj10"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-142006-A-10.wav",
+   "labels": "/m/07rwj10"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-142349-A-17.wav",
+   "labels": "/m/07rwj17"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-142593-A-38.wav",
+   "labels": "/m/07rwj38"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-142601-A-21.wav",
+   "labels": "/m/07rwj21"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-142604-A-24.wav",
+   "labels": "/m/07rwj24"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-142605-A-21.wav",
+   "labels": "/m/07rwj21"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-143119-A-21.wav",
+   "labels": "/m/07rwj21"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-143560-A-47.wav",
+   "labels": "/m/07rwj47"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-143562-A-47.wav",
+   "labels": "/m/07rwj47"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-143929-A-10.wav",
+   "labels": "/m/07rwj10"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-143933-A-38.wav",
+   "labels": "/m/07rwj38"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144028-A-0.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144106-A-32.wav",
+   "labels": "/m/07rwj32"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144120-A-32.wav",
+   "labels": "/m/07rwj32"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144128-A-23.wav",
+   "labels": "/m/07rwj23"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144128-B-23.wav",
+   "labels": "/m/07rwj23"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144253-A-29.wav",
+   "labels": "/m/07rwj29"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144259-A-29.wav",
+   "labels": "/m/07rwj29"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144510-A-30.wav",
+   "labels": "/m/07rwj30"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144692-A-21.wav",
+   "labels": "/m/07rwj21"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144827-A-11.wav",
+   "labels": "/m/07rwj11"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144827-B-11.wav",
+   "labels": "/m/07rwj11"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144891-A-19.wav",
+   "labels": "/m/07rwj19"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-144891-B-19.wav",
+   "labels": "/m/07rwj19"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-145382-A-1.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-145387-A-29.wav",
+   "labels": "/m/07rwj29"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-145487-A-24.wav",
+   "labels": "/m/07rwj24"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-145577-A-43.wav",
+   "labels": "/m/07rwj43"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-145719-A-17.wav",
+   "labels": "/m/07rwj17"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-145774-A-12.wav",
+   "labels": "/m/07rwj12"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-146033-A-13.wav",
+   "labels": "/m/07rwj13"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-146186-A-44.wav",
+   "labels": "/m/07rwj44"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-146697-A-43.wav",
+   "labels": "/m/07rwj43"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-146873-A-24.wav",
+   "labels": "/m/07rwj24"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-146964-A-5.wav",
+   "labels": "/m/07rwj05"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-146965-A-5.wav",
+   "labels": "/m/07rwj05"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-146972-A-5.wav",
+   "labels": "/m/07rwj05"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-147342-A-34.wav",
+   "labels": "/m/07rwj34"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-147343-A-34.wav",
+   "labels": "/m/07rwj34"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-147965-A-12.wav",
+   "labels": "/m/07rwj12"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-148297-A-37.wav",
+   "labels": "/m/07rwj37"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-148330-A-21.wav",
+   "labels": "/m/07rwj21"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-148932-A-34.wav",
+   "labels": "/m/07rwj34"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-149042-A-24.wav",
+   "labels": "/m/07rwj24"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-149189-A-1.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-149448-A-17.wav",
+   "labels": "/m/07rwj17"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-149465-A-22.wav",
+   "labels": "/m/07rwj22"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-150231-A-21.wav",
+   "labels": "/m/07rwj21"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-150363-A-38.wav",
+   "labels": "/m/07rwj38"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-150979-A-40.wav",
+   "labels": "/m/07rwj40"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-150979-B-40.wav",
+   "labels": "/m/07rwj40"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-150979-C-40.wav",
+   "labels": "/m/07rwj40"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-151080-A-20.wav",
+   "labels": "/m/07rwj20"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-151081-A-20.wav",
+   "labels": "/m/07rwj20"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-151081-B-20.wav",
+   "labels": "/m/07rwj20"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-151089-A-30.wav",
+   "labels": "/m/07rwj30"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-151206-A-23.wav",
+   "labels": "/m/07rwj23"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-151212-A-24.wav",
+   "labels": "/m/07rwj24"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-151213-A-24.wav",
+   "labels": "/m/07rwj24"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-151255-A-28.wav",
+   "labels": "/m/07rwj28"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-151269-A-35.wav",
+   "labels": "/m/07rwj35"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-151273-A-35.wav",
+   "labels": "/m/07rwj35"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-151557-A-28.wav",
+   "labels": "/m/07rwj28"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-151557-B-28.wav",
+   "labels": "/m/07rwj28"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152007-A-20.wav",
+   "labels": "/m/07rwj20"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152007-B-20.wav",
+   "labels": "/m/07rwj20"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152007-C-20.wav",
+   "labels": "/m/07rwj20"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152007-D-20.wav",
+   "labels": "/m/07rwj20"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152007-E-20.wav",
+   "labels": "/m/07rwj20"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152020-A-36.wav",
+   "labels": "/m/07rwj36"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152020-B-36.wav",
+   "labels": "/m/07rwj36"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152020-C-36.wav",
+   "labels": "/m/07rwj36"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152039-A-3.wav",
+   "labels": "/m/07rwj03"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152039-B-3.wav",
+   "labels": "/m/07rwj03"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152594-A-30.wav",
+   "labels": "/m/07rwj30"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152912-A-26.wav",
+   "labels": "/m/07rwj26"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-152997-A-26.wav",
+   "labels": "/m/07rwj26"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-153057-A-43.wav",
+   "labels": "/m/07rwj43"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-153444-A-32.wav",
+   "labels": "/m/07rwj32"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-154378-A-30.wav",
+   "labels": "/m/07rwj30"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-154439-A-17.wav",
+   "labels": "/m/07rwj17"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-154758-A-44.wav",
+   "labels": "/m/07rwj44"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-154781-A-32.wav",
+   "labels": "/m/07rwj32"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-154926-A-40.wav",
+   "labels": "/m/07rwj40"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-154926-B-40.wav",
+   "labels": "/m/07rwj40"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-154957-A-1.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155130-A-43.wav",
+   "labels": "/m/07rwj43"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155234-A-43.wav",
+   "labels": "/m/07rwj43"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155312-A-0.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155556-A-31.wav",
+   "labels": "/m/07rwj31"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155568-A-32.wav",
+   "labels": "/m/07rwj32"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155570-A-32.wav",
+   "labels": "/m/07rwj32"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155577-A-14.wav",
+   "labels": "/m/07rwj14"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155578-A-14.wav",
+   "labels": "/m/07rwj14"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155579-A-14.wav",
+   "labels": "/m/07rwj14"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155583-A-14.wav",
+   "labels": "/m/07rwj14"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155584-A-14.wav",
+   "labels": "/m/07rwj14"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155642-A-11.wav",
+   "labels": "/m/07rwj11"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155642-B-11.wav",
+   "labels": "/m/07rwj11"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155659-A-34.wav",
+   "labels": "/m/07rwj34"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-155766-A-13.wav",
+   "labels": "/m/07rwj13"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-156391-A-35.wav",
+   "labels": "/m/07rwj35"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-156393-A-35.wav",
+   "labels": "/m/07rwj35"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-156558-A-21.wav",
+   "labels": "/m/07rwj21"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-156581-A-14.wav",
+   "labels": "/m/07rwj14"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-156581-B-14.wav",
+   "labels": "/m/07rwj14"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-156907-A-15.wav",
+   "labels": "/m/07rwj15"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-157149-A-10.wav",
+   "labels": "/m/07rwj10"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-157187-A-12.wav",
+   "labels": "/m/07rwj12"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-157487-A-10.wav",
+   "labels": "/m/07rwj10"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-157492-A-45.wav",
+   "labels": "/m/07rwj45"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-157615-A-10.wav",
+   "labels": "/m/07rwj10"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-157695-A-0.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-158056-A-31.wav",
+   "labels": "/m/07rwj31"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-158056-B-31.wav",
+   "labels": "/m/07rwj31"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-158476-A-12.wav",
+   "labels": "/m/07rwj12"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-159346-A-36.wav",
+   "labels": "/m/07rwj36"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-159346-B-36.wav",
+   "labels": "/m/07rwj36"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-159347-A-36.wav",
+   "labels": "/m/07rwj36"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-159347-B-36.wav",
+   "labels": "/m/07rwj36"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-159348-A-36.wav",
+   "labels": "/m/07rwj36"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-159445-A-45.wav",
+   "labels": "/m/07rwj45"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-159445-B-45.wav",
+   "labels": "/m/07rwj45"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-160119-A-15.wav",
+   "labels": "/m/07rwj15"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-160993-A-3.wav",
+   "labels": "/m/07rwj03"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-161010-A-43.wav",
+   "labels": "/m/07rwj43"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-161500-A-17.wav",
+   "labels": "/m/07rwj17"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-162786-A-13.wav",
+   "labels": "/m/07rwj13"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-163288-A-1.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-163459-A-0.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-163607-A-13.wav",
+   "labels": "/m/07rwj13"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-163607-B-13.wav",
+   "labels": "/m/07rwj13"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-163727-A-3.wav",
+   "labels": "/m/07rwj03"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-164120-A-11.wav",
+   "labels": "/m/07rwj11"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-164216-A-6.wav",
+   "labels": "/m/07rwj06"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-164216-B-6.wav",
+   "labels": "/m/07rwj06"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-164216-C-6.wav",
+   "labels": "/m/07rwj06"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-164592-A-15.wav",
+   "labels": "/m/07rwj15"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-164593-A-15.wav",
+   "labels": "/m/07rwj15"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-164594-A-15.wav",
+   "labels": "/m/07rwj15"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-164595-A-15.wav",
+   "labels": "/m/07rwj15"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-164630-A-11.wav",
+   "labels": "/m/07rwj11"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-164688-A-38.wav",
+   "labels": "/m/07rwj38"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-165856-A-41.wav",
+   "labels": "/m/07rwj41"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-166125-A-23.wav",
+   "labels": "/m/07rwj23"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-166125-B-23.wav",
+   "labels": "/m/07rwj23"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-166324-A-15.wav",
+   "labels": "/m/07rwj15"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-166326-A-15.wav",
+   "labels": "/m/07rwj15"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-166422-A-11.wav",
+   "labels": "/m/07rwj11"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-166546-A-34.wav",
+   "labels": "/m/07rwj34"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-166546-B-34.wav",
+   "labels": "/m/07rwj34"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-167096-A-31.wav",
+   "labels": "/m/07rwj31"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-169907-A-29.wav",
+   "labels": "/m/07rwj29"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-170002-A-34.wav",
+   "labels": "/m/07rwj34"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-170015-A-0.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-170312-A-31.wav",
+   "labels": "/m/07rwj31"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-170377-A-38.wav",
+   "labels": "/m/07rwj38"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-170383-A-38.wav",
+   "labels": "/m/07rwj38"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-170574-A-30.wav",
+   "labels": "/m/07rwj30"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-170851-A-31.wav",
+   "labels": "/m/07rwj31"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-171012-A-38.wav",
+   "labels": "/m/07rwj38"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-171041-A-38.wav",
+   "labels": "/m/07rwj38"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-171281-A-6.wav",
+   "labels": "/m/07rwj06"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-171937-A-34.wav",
+   "labels": "/m/07rwj34"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-172179-A-31.wav",
+   "labels": "/m/07rwj31"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-172881-A-48.wav",
+   "labels": "/m/07rwj48"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-172922-A-48.wav",
+   "labels": "/m/07rwj48"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-174840-A-43.wav",
+   "labels": "/m/07rwj43"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-174866-A-29.wav",
+   "labels": "/m/07rwj29"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-177082-A-22.wav",
+   "labels": "/m/07rwj22"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-177083-A-22.wav",
+   "labels": "/m/07rwj22"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-178096-A-6.wav",
+   "labels": "/m/07rwj06"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-180147-A-30.wav",
+   "labels": "/m/07rwj30"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-180256-A-0.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-180977-A-0.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-181132-A-14.wav",
+   "labels": "/m/07rwj14"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-181278-A-22.wav",
+   "labels": "/m/07rwj22"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-182023-A-30.wav",
+   "labels": "/m/07rwj30"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-182025-A-30.wav",
+   "labels": "/m/07rwj30"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-182710-A-35.wav",
+   "labels": "/m/07rwj35"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-182710-B-35.wav",
+   "labels": "/m/07rwj35"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-185313-A-31.wav",
+   "labels": "/m/07rwj31"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-185456-A-29.wav",
+   "labels": "/m/07rwj29"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-187549-A-6.wav",
+   "labels": "/m/07rwj06"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-187549-B-6.wav",
+   "labels": "/m/07rwj06"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-187710-A-11.wav",
+   "labels": "/m/07rwj11"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-188390-A-6.wav",
+   "labels": "/m/07rwj06"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-188726-A-35.wav",
+   "labels": "/m/07rwj35"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-193767-A-47.wav",
+   "labels": "/m/07rwj47"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-197408-A-8.wav",
+   "labels": "/m/07rwj08"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-197408-B-8.wav",
+   "labels": "/m/07rwj08"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-197408-C-8.wav",
+   "labels": "/m/07rwj08"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-197435-A-22.wav",
+   "labels": "/m/07rwj22"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-197435-B-22.wav",
+   "labels": "/m/07rwj22"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-203371-A-39.wav",
+   "labels": "/m/07rwj39"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-203373-A-39.wav",
+   "labels": "/m/07rwj39"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-203374-A-39.wav",
+   "labels": "/m/07rwj39"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-203375-A-39.wav",
+   "labels": "/m/07rwj39"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-203377-A-39.wav",
+   "labels": "/m/07rwj39"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-20861-A-8.wav",
+   "labels": "/m/07rwj08"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-208820-A-49.wav",
+   "labels": "/m/07rwj49"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-216280-A-39.wav",
+   "labels": "/m/07rwj39"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-216281-A-39.wav",
+   "labels": "/m/07rwj39"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-216284-A-39.wav",
+   "labels": "/m/07rwj39"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-233151-A-2.wav",
+   "labels": "/m/07rwj02"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-243726-A-43.wav",
+   "labels": "/m/07rwj43"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-246513-A-16.wav",
+   "labels": "/m/07rwj16"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-246513-B-16.wav",
+   "labels": "/m/07rwj16"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-249913-A-25.wav",
+   "labels": "/m/07rwj25"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-251617-A-48.wav",
+   "labels": "/m/07rwj48"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-253081-A-2.wav",
+   "labels": "/m/07rwj02"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-253084-A-2.wav",
+   "labels": "/m/07rwj02"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-253084-B-2.wav",
+   "labels": "/m/07rwj02"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-253084-C-2.wav",
+   "labels": "/m/07rwj02"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-253084-D-2.wav",
+   "labels": "/m/07rwj02"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-253084-E-2.wav",
+   "labels": "/m/07rwj02"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-257858-A-2.wav",
+   "labels": "/m/07rwj02"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-259622-A-44.wav",
+   "labels": "/m/07rwj44"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-51376-A-42.wav",
+   "labels": "/m/07rwj42"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-51731-A-42.wav",
+   "labels": "/m/07rwj42"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-51731-B-42.wav",
+   "labels": "/m/07rwj42"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-51909-A-42.wav",
+   "labels": "/m/07rwj42"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-51909-B-42.wav",
+   "labels": "/m/07rwj42"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-58772-A-42.wav",
+   "labels": "/m/07rwj42"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-62878-A-42.wav",
+   "labels": "/m/07rwj42"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-62878-B-42.wav",
+   "labels": "/m/07rwj42"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-65748-A-12.wav",
+   "labels": "/m/07rwj12"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-68630-A-40.wav",
+   "labels": "/m/07rwj40"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-68630-B-40.wav",
+   "labels": "/m/07rwj40"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-68630-C-40.wav",
+   "labels": "/m/07rwj40"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-70962-A-4.wav",
+   "labels": "/m/07rwj04"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-70962-B-4.wav",
+   "labels": "/m/07rwj04"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-70962-C-4.wav",
+   "labels": "/m/07rwj04"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-71964-A-4.wav",
+   "labels": "/m/07rwj04"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-71964-B-4.wav",
+   "labels": "/m/07rwj04"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-71964-C-4.wav",
+   "labels": "/m/07rwj04"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-83527-A-4.wav",
+   "labels": "/m/07rwj04"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-87936-A-46.wav",
+   "labels": "/m/07rwj46"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-87936-B-46.wav",
+   "labels": "/m/07rwj46"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-92637-A-18.wav",
+   "labels": "/m/07rwj18"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-93010-A-18.wav",
+   "labels": "/m/07rwj18"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-94342-A-25.wav",
+   "labels": "/m/07rwj25"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-94343-A-25.wav",
+   "labels": "/m/07rwj25"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-94344-A-25.wav",
+   "labels": "/m/07rwj25"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-94355-A-33.wav",
+   "labels": "/m/07rwj33"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-95694-A-5.wav",
+   "labels": "/m/07rwj05"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-95695-A-5.wav",
+   "labels": "/m/07rwj05"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-95695-B-5.wav",
+   "labels": "/m/07rwj05"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-95697-A-5.wav",
+   "labels": "/m/07rwj05"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-95698-A-5.wav",
+   "labels": "/m/07rwj05"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-96606-A-49.wav",
+   "labels": "/m/07rwj49"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-96606-B-49.wav",
+   "labels": "/m/07rwj49"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-97909-A-49.wav",
+   "labels": "/m/07rwj49"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-97909-B-49.wav",
+   "labels": "/m/07rwj49"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-98193-A-46.wav",
+   "labels": "/m/07rwj46"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-98771-A-18.wav",
+   "labels": "/m/07rwj18"
+  },
+  {
+   "wav": "/DB/ESC50/ESC-50-master/audio_16k/3-98869-A-46.wav",
+   "labels": "/m/07rwj46"
+  }
+ ]
+}

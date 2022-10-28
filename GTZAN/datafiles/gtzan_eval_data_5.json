@@ -1,0 +1,404 @@
+{
+ "data": [
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/blues/blues.00014.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/blues/blues.00095.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/blues/blues.00069.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/blues/blues.00071.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/blues/blues.00031.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/blues/blues.00026.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/blues/blues.00082.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/blues/blues.00047.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/blues/blues.00036.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/blues/blues.00012.wav",
+   "labels": "/m/gtzan09"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/classical/classical.00002.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/classical/classical.00042.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/classical/classical.00067.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/classical/classical.00018.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/classical/classical.00016.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/classical/classical.00081.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/classical/classical.00086.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/classical/classical.00084.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/classical/classical.00096.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/classical/classical.00094.wav",
+   "labels": "/m/gtzan05"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/country/country.00090.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/country/country.00051.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/country/country.00088.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/country/country.00039.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/country/country.00001.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/country/country.00032.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/country/country.00033.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/country/country.00034.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/country/country.00093.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/country/country.00055.wav",
+   "labels": "/m/gtzan08"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/disco/disco.00049.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/disco/disco.00076.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/disco/disco.00019.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/disco/disco.00072.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/disco/disco.00088.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/disco/disco.00012.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/disco/disco.00053.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/disco/disco.00010.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/disco/disco.00031.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/disco/disco.00037.wav",
+   "labels": "/m/gtzan03"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/hiphop/hiphop.00064.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/hiphop/hiphop.00009.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/hiphop/hiphop.00078.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/hiphop/hiphop.00038.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/hiphop/hiphop.00073.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/hiphop/hiphop.00013.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/hiphop/hiphop.00047.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/hiphop/hiphop.00061.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/hiphop/hiphop.00010.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/hiphop/hiphop.00004.wav",
+   "labels": "/m/gtzan06"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/jazz/jazz.00082.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/jazz/jazz.00006.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/jazz/jazz.00017.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/jazz/jazz.00071.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/jazz/jazz.00070.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/jazz/jazz.00062.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/jazz/jazz.00034.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/jazz/jazz.00012.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/jazz/jazz.00059.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/jazz/jazz.00049.wav",
+   "labels": "/m/gtzan04"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/metal/metal.00048.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/metal/metal.00000.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/metal/metal.00036.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/metal/metal.00020.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/metal/metal.00061.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/metal/metal.00080.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/metal/metal.00003.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/metal/metal.00010.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/metal/metal.00031.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/metal/metal.00092.wav",
+   "labels": "/m/gtzan01"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/pop/pop.00060.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/pop/pop.00039.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/pop/pop.00016.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/pop/pop.00000.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/pop/pop.00015.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/pop/pop.00098.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/pop/pop.00023.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/pop/pop.00029.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/pop/pop.00075.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/pop/pop.00086.wav",
+   "labels": "/m/gtzan00"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/reggae/reggae.00052.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/reggae/reggae.00044.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/reggae/reggae.00078.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/reggae/reggae.00014.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/reggae/reggae.00094.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/reggae/reggae.00098.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/reggae/reggae.00041.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/reggae/reggae.00099.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/reggae/reggae.00020.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/reggae/reggae.00031.wav",
+   "labels": "/m/gtzan07"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/rock/rock.00068.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/rock/rock.00025.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/rock/rock.00008.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/rock/rock.00083.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/rock/rock.00058.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/rock/rock.00003.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/rock/rock.00081.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/rock/rock.00044.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/rock/rock.00088.wav",
+   "labels": "/m/gtzan02"
+  },
+  {
+   "wav": "/DB/GTZAN/genres_original_16k/rock/rock.00064.wav",
+   "labels": "/m/gtzan02"
+  }
+ ]
+}
