@@ -47,22 +47,10 @@ python3 main.py -name [your exp name] -tags [your exp tags]
 Please cite this paper if you make use of the code. 
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2211.02227,
-  doi = {10.48550/ARXIV.2211.02227},
-  
-  url = {https://arxiv.org/abs/2211.02227},
-  
-  author = {Kim, Ju-ho and Heo, Jungwoo and Shin, Hyun-seo and Lim, Chan-yeong and Yu, Ha-Jin},
-  
-  keywords = {Audio and Speech Processing (eess.AS), Sound (cs.SD), FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Integrated Parameter-Efficient Tuning for General-Purpose Audio Models},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@inproceedings{Kim2022IntegratedPT,
+  title={Integrated Parameter-Efficient Tuning for General-Purpose Audio Models},
+  author={Ju-ho Kim and Ju-Sung Heo and Hyun-seo Shin and Chanmann Lim and Ha-jin Yu},
+  year={2022}
 }
 
 ```
