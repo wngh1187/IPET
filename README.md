@@ -17,6 +17,23 @@ We demonstrate the efficacy of the proposed framework using two backbone pre-tra
 The proposed IPET framework exhibits remarkable performance compared to fine-tuning method with fewer trainable parameters in four downstream tasks: sound event classification, music genre classification, keyword spotting, and speaker verification. 
 Furthermore, the authors identify and analyze the shortcomings of the IPET framework, providing lessons and research directions for parameter efficient tuning in the audio domain.
 
+# Hyper-parameters details
+For each task and method, we conducted a grid search of the hyper-parameters.
+The table below describes the hyper-parameters determined based on the best performance.
+
+| Model |      Dataset      | Batch size | Input frame | Specaugment(time / frequency) | Mixup | Gaussian noise |  Learning rate for method | \# of embedding prompts | \# of adapter dimensions |
+|:-----:|:-----------------:|:----------:|:-----------:|:-----------------------------:|:-----:|:--------------:|:---------------------------:|:----------------------:|:------------------:|
+|  AST  |       ESC50       |     48     |     512     |            96 / 24            |   X   |        X       | FT: $1e^{-5}$ / IPET: $1e^{-3}$ |            4            |         32         |
+|  AST  |       FSD50K      |     24     |     1024    |            192 / 48           |  0.5  |        X       | FT: $1e^{-5}$ / IPET: $1e^{-3}$ |            32           |         32         |
+|  AST  |       GTZAN       |     32     |     400     |            80 / 48            |  0.3  |        X       | FT: $5e^{-5}$ / IPET: $4.5e^{-3}$ |            8            |         64         |
+|  AST  | Speech Command V2 |     128    |     128     |            48 / 48            |  0.5  |        O       | FT: $2.5e^{-4}$ / IPET: $5e^{-3}$ |            4            |         128        |
+|  AST  |     VoxCeleb1     |     32     |     400     |            80 / 48            |   X   |        O       | FT: $5e^{-5}$ / IPET: $5e^{-4}$ |            4            |         64         |
+|  W2V2 |       ESC50       |     48     |     512     |               X               |   X   |        X       | FT: $5e^{-5}$ / IPET: $2.5e^{-3}$ |           128           |         128        |
+|  W2V2 |       FSD50K      |     24     |     1024    |               X               |  0.5  |        X       | FT: $5e^{-5}$ / IPET: $5e^{-3}$ |           128           |         64         |
+|  W2V2 |       GTZAN       |     32     |     400     |               X               |  0.3  |        X       | FT: $2.5e^{-5}$ / IPET: $5e^{-3}$ |           128           |         64         |
+|  W2V2 | Speech Command V2 |     64     |     128     |               X               |   X   |        X       | FT: $5e^{-5}$ / IPET: $1e^{-3}$ |            64           |         64         |
+|  W2V2 |     VoxCeleb1     |     64     |     300     |               X               |   X   |        X       | FT: $2.5e^{-5}$ / IPET: $1e^{-3}$ |            64           |         128        |
+
 # Prerequisites
 
 ## Environment Setting
