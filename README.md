@@ -22,7 +22,7 @@ For each task and method, we conducted a grid search of the hyper-parameters.
 The table below describes the hyper-parameters determined based on the best performance.
 
 | Model |      Dataset      | Batch size | Input frame | Specaugment(time / frequency) | Mixup | Gaussian noise | MUSAN augmentation |  Learning rate for method | \# of embedding prompts | \# of adapter dimensions |
-|:-----:|:-----------------:|:----------:|:-----------:|:-----------------------------:|:-----:|:--------------:|:---------------------------:|:----------------------:|:------------------:|
+|:-----:|:-----------------:|:----------:|:-----------:|:-----------------------------:|:-----:|:--------------:|:--------------:|:---------------------------:|:----------------------:|:------------------:|
 |  AST  |       ESC50       |     48     |     512     |            96 / 24            |   X   |        X       |        X       | FT: $1e^{-5}$ / IPET: $1e^{-3}$ |            4            |         32         |
 |  AST  |       FSD50K      |     24     |     1024    |            192 / 48           |  0.5  |        X       |        X       | FT: $1e^{-5}$ / IPET: $1e^{-3}$ |            32           |         32         |
 |  AST  |       GTZAN       |     32     |     400     |            80 / 48            |  0.3  |        X       |        X       | FT: $5e^{-5}$ / IPET: $4.5e^{-3}$ |            8            |         64         |
