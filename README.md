@@ -2,7 +2,7 @@
 
 Pytorch code for following paper:
 
-* **Title** : INTEGRATED PARAMETER-EFFICIENT TUNING FOR GENERAL-PURPOSE AUDIO MODELS (Submit to ICASSP2023, now available [here]( https://arxiv.org/abs/2211.02227 )) 
+* **Title** : INTEGRATED PARAMETER-EFFICIENT TUNING FOR GENERAL-PURPOSE AUDIO MODELS (available [here]( https://arxiv.org/abs/2211.02227 )) 
 * **Autor** : Ju-ho Kim<sup>\*</sup>, Jungwoo Heo<sup>\*</sup>, Hyun-seo Shin, Chan-yeong Lim, and Ha-Jin Yu
 
 # Abstract
